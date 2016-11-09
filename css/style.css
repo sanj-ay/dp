@@ -71,3 +71,19 @@ blockquote cite::before {
 .company li {
   margin-left: 24px;
 }
+
+.news {
+  color: white;
+  padding: 30px;
+  background-color: #BAAEAB;
+  margin-bottom: 15px;
+}
+.news:hover {
+  background-color: rgba(243,139,121,0.6);
+}
+.news date {
+  display:block;
+  position: absolute;
+  font-size: 12px;
+  font-style:italic;
+}
