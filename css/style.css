@@ -3,6 +3,9 @@
   color: #FFF !important;
 
 }
+li a {
+  color: black;
+}
 a, a:hover {
   color: rgb(243,139,121);
 }
@@ -72,6 +75,9 @@ blockquote cite::before {
   margin-left: 24px;
 }
 
+#news {
+  margin-bottom: 10%;
+}
 .news {
   color: white;
   padding: 30px;
@@ -86,4 +92,15 @@ blockquote cite::before {
   position: absolute;
   font-size: 12px;
   font-style:italic;
+}
+#contact img {
+  vertical-align: middle;
+  margin-right: 6px;
+}
+#contact .inner {
+  margin-left: 35%;
+}
+#contact li {
+  list-style:none;
+  margin: 1em;
 }
