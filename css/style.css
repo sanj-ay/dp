@@ -44,3 +44,30 @@ blockquote cite {
 blockquote cite::before {
   content: '\2014\00a0';
 }
+
+.title {
+  text-align: center;
+  font-size: 20px;
+  font-size: 2rem;
+  margin: 6rem 0;
+}
+
+#experience {
+  width: 70%;
+  margin: 0 0 10% 15%;
+}
+
+.company h1 {
+  font-size: 16px;
+  font-size: 1.6rem;
+  display:inline-block;
+
+}
+.company date {
+  font-style: italic;
+  opacity: 0.3;
+  float:right;
+}
+.company li {
+  margin-left: 24px;
+}
