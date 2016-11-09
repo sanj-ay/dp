@@ -93,14 +93,18 @@ blockquote cite::before {
   font-size: 12px;
   font-style:italic;
 }
+#contact {
+  text-align: center;
+}
 #contact img {
   vertical-align: middle;
   margin-right: 6px;
 }
 #contact .inner {
-  margin-left: 35%;
+  margin: 5% 0 0 35%;
 }
 #contact li {
   list-style:none;
   margin: 1em;
+  text-align: left;
 }
