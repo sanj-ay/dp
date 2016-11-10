@@ -70,6 +70,7 @@ blockquote cite::before {
   font-style: italic;
   opacity: 0.3;
   float:right;
+  line-height:2.7;
 }
 .company li {
   margin-left: 24px;
