@@ -72,7 +72,7 @@ blockquote cite::before {
   float:right;
   line-height:2.7;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 920px) {
   .company date {
     display: none;
   }
@@ -111,7 +111,6 @@ blockquote cite::before {
   margin-right: 6px;
 }
 #contact .inner {
-  /*margin: 5% 0 0 35%;*/
   display:inline-block;
 }
 #contact li {
