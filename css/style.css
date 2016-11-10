@@ -85,6 +85,9 @@ blockquote cite::before {
 #news {
   margin-bottom: 10%;
 }
+.news a {
+  color: white;
+}
 .news {
   color: white;
   padding: 30px;
