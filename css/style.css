@@ -72,6 +72,12 @@ blockquote cite::before {
   float:right;
   line-height:2.7;
 }
+@media screen and (max-width: 800px) {
+  .company date {
+    display: none;
+  }
+}
+
 .company li {
   margin-left: 24px;
 }
