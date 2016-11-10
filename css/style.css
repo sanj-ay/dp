@@ -111,7 +111,8 @@ blockquote cite::before {
   margin-right: 6px;
 }
 #contact .inner {
-  margin: 5% 0 0 35%;
+  /*margin: 5% 0 0 35%;*/
+  display:inline-block;
 }
 #contact li {
   list-style:none;
