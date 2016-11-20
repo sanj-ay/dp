@@ -109,6 +109,7 @@ blockquote cite::before {
 #contact img {
   vertical-align: middle;
   margin-right: 6px;
+  width: 2.5em;
 }
 #contact .inner {
   display:inline-block;
