@@ -1,3 +1,5 @@
+h1,h2,h3,h4,h5,h6,dt,cite,label,button,.button,.entry-footer,.footer-navigation,.entry-pagination,.sticky-post-label,.entry-meta-wrapper,.stag-twitter .time,.font-header,.stag-button,.site-navigation,input[type="reset"],input[type="submit"],.stag-nav,.stag-toggle-title{font-family:"Gotham A","Gotham B","Helvetica Neue",Helvetica,Arial,sans-serif;}body,.font-body{font-family:"Sentinel SSm A","Sentinel SSm B",Georgia,Times,"Times New Roman",serif;font-size:20px;font-size:2rem;}.main-navigation{font-size:16px;font-size:1.6rem;}.comment-meta a:hover,.entry-meta-wrapper a:hover{color:#6f35ff;}.header-widgets-toggle:after{border-right-color:#6f35ff;}.accent-background,.single .entry-date,body.page .entry-date{background-color:#6f35ff;}body{color:#000000;}.custom-logo a{padding-bottom:36.458333333333%;}
+
 .site-navigation a:not(.close-menu):hover {
   background: rgb(243,139,121);
   color: #FFF !important;
