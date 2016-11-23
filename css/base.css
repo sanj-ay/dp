@@ -578,11 +578,15 @@ a:hover {
 }
 @media screen and (max-width: 500px) {
   .site-navigation {
-    display: none;
+    display: none !important; /* Override scrollmagic pin */
+  }
+
+  .site-header {
+    height:30px;
   }
 
   .mobile-navigation {
-    display: block;
+    display: block !important;  /* Override scrollmagic pin */
     position: fixed;
     width: 100%;
     height: 100%;

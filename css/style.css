@@ -3,8 +3,19 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,button,.button,.entry-footer,.footer-navigation,
 .site-navigation a:not(.close-menu):hover {
   background: rgb(243,139,121);
   color: #FFF !important;
-
 }
+.site-navigation-pinned {
+  background-color: #fff7f5;
+  padding:25px 0;
+  top:0 !important;
+  width:100% !important;
+  left:0 !important;
+}
+.scrollmagic-pin-spacer {
+  /* Necessary to maintain @media hiding display*/
+  display: inherit !important;
+}
+
 li a {
   color: black;
 }
