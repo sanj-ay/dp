@@ -120,6 +120,12 @@ blockquote cite::before {
   font-size: 12px;
   font-style:italic;
 }
+.subtitle {
+  font-style:italic;
+  font-size:0.9em;
+  margin:-2em 0 3em 0;
+  opacity:0.9;
+}
 #contact {
   text-align: center;
 }
