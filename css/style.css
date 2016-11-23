@@ -12,8 +12,8 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,button,.button,.entry-footer,.footer-navigation,
   left:0 !important;
 }
 .scrollmagic-pin-spacer {
-  /* Necessary to maintain @media hiding display*/
-  display: inherit !important;
+  display: inherit !important; /* Nav bar hides display when small */
+  min-height: 30px !important; /* Nav bar spacing stays consistent */
 }
 
 li a {
