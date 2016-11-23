@@ -101,6 +101,7 @@ blockquote cite::before {
   margin-bottom: 10%;
 }
 .news a {
+  font-size:0.9em;
   color: white;
 }
 .news {
