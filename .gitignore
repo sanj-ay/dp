@@ -2,6 +2,8 @@
 .DS_Store
 TODO.md
 
+js/debug/
+
 # Node files
 
 #lib-cov
