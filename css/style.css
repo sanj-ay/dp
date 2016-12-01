@@ -18,6 +18,13 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,button,.button,.entry-footer,.footer-navigation,
   min-height: 30px !important; /* Nav bar spacing stays consistent */
 }
 
+.jumptarget::before {
+  content:"";
+  display:block;
+  height:81px;
+  margin:-81px 0 0;
+}
+
 li a {
   color: black;
 }
