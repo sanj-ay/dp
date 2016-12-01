@@ -5,7 +5,7 @@ h1,h2,h3,h4,h5,h6,dt,cite,label,button,.button,.entry-footer,.footer-navigation,
   color: #FFF !important;
 }
 .site-navigation-pinned {
-  background-color: #fff7f5;
+  background-color: rgba(255,255,255,0.95);
   padding:25px 0;
   position: fixed!important;
   top:0 !important;
