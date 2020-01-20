@@ -142,6 +142,9 @@ blockquote cite::before {
   width: 75%;
   margin: 0 0 10% 12.5%;
 }
+#books .subtitle {
+  text-align:left;
+}
 
 #contact {
   text-align: center;
