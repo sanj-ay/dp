@@ -577,10 +577,7 @@ a:hover {
   }
 }
 @media screen and (max-width: 500px) {
-  .site-navigation {
-    display: none !important; /* Override scrollmagic pin */
-  }
-
+ 
   .site-header {
     height:30px;
   }
