@@ -67,7 +67,7 @@ html {
   .members{    
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 25px;
   }
   .profile-box{
@@ -77,8 +77,8 @@ html {
   
     margin-top: 25px;
     margin-right: 10px;
-    height: 250px;
-    width: 300px;
+    height: 270px;
+    width: 350px;
 
     display: flex;
     flex-direction: column;
