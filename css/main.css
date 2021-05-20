@@ -83,11 +83,10 @@ html {
     justify-content: space-between;
 
 }
-.img-bar{               /* Add this */
+.img-bar{        
   width: 125px;
   height: 125px;
   padding:10px;
- 
 }
 .profile-details{
   margin-top: 19px;
